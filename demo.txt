@@ -1,2 +1,3 @@
 New file added.
-Second line is added.
+Second line is addedi.
+Third line is added.
