@@ -1,5 +1,10 @@
 New file added.
-Second line is addedi.
+Second apt is addedi.
+
+
+Forth line removed
+
+
 Third line is added.
 Fourth line is added.
 Never settele for less than you deserve 
